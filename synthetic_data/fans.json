@@ -1,0 +1,222 @@
+[
+  {
+    "fan_id": "F0001",
+    "mode": "analyst",
+    "language": "ja",
+    "favorite_club": "BRI",
+    "favorite_player_id": "KIN06",
+    "metric_focus": "shot_speed",
+    "detail_level": "high",
+    "overlay_density": "rich",
+    "spoiler_free": true
+  },
+  {
+    "fan_id": "F0002",
+    "mode": "tactical",
+    "language": "de",
+    "favorite_club": "BRI",
+    "favorite_player_id": "KIN26",
+    "metric_focus": "pass_difficulty",
+    "detail_level": "high",
+    "overlay_density": "minimal",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0003",
+    "mode": "tactical",
+    "language": "de",
+    "favorite_club": "KIN",
+    "favorite_player_id": null,
+    "metric_focus": "sprints",
+    "detail_level": "high",
+    "overlay_density": "rich",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0004",
+    "mode": "player_focus",
+    "language": "fr",
+    "favorite_club": "KIN",
+    "favorite_player_id": "BRI34",
+    "metric_focus": "shot_speed",
+    "detail_level": "medium",
+    "overlay_density": "rich",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0005",
+    "mode": "storyteller",
+    "language": "es",
+    "favorite_club": "BRI",
+    "favorite_player_id": "KIN16",
+    "metric_focus": "xg",
+    "detail_level": "medium",
+    "overlay_density": "minimal",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0006",
+    "mode": "storyteller",
+    "language": "fr",
+    "favorite_club": "KIN",
+    "favorite_player_id": null,
+    "metric_focus": "pressure",
+    "detail_level": "medium",
+    "overlay_density": "minimal",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0007",
+    "mode": "player_focus",
+    "language": "de",
+    "favorite_club": "BRI",
+    "favorite_player_id": "KIN26",
+    "metric_focus": "sprints",
+    "detail_level": "medium",
+    "overlay_density": "rich",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0008",
+    "mode": "storyteller",
+    "language": "es",
+    "favorite_club": "KIN",
+    "favorite_player_id": "BRI34",
+    "metric_focus": "shot_speed",
+    "detail_level": "medium",
+    "overlay_density": "standard",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0009",
+    "mode": "casual",
+    "language": "en",
+    "favorite_club": "BRI",
+    "favorite_player_id": "BRI05",
+    "metric_focus": "sprints",
+    "detail_level": "low",
+    "overlay_density": "standard",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0010",
+    "mode": "storyteller",
+    "language": "ja",
+    "favorite_club": "BRI",
+    "favorite_player_id": null,
+    "metric_focus": "sprints",
+    "detail_level": "medium",
+    "overlay_density": "rich",
+    "spoiler_free": true
+  },
+  {
+    "fan_id": "F0011",
+    "mode": "casual",
+    "language": "ja",
+    "favorite_club": "KIN",
+    "favorite_player_id": "BRI11",
+    "metric_focus": "xg",
+    "detail_level": "low",
+    "overlay_density": "standard",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0012",
+    "mode": "tactical",
+    "language": "ja",
+    "favorite_club": "BRI",
+    "favorite_player_id": null,
+    "metric_focus": "pass_difficulty",
+    "detail_level": "high",
+    "overlay_density": "minimal",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0013",
+    "mode": "storyteller",
+    "language": "fr",
+    "favorite_club": "KIN",
+    "favorite_player_id": "KIN09",
+    "metric_focus": "pressure",
+    "detail_level": "medium",
+    "overlay_density": "rich",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0014",
+    "mode": "player_focus",
+    "language": "ja",
+    "favorite_club": "BRI",
+    "favorite_player_id": "KIN09",
+    "metric_focus": "shot_speed",
+    "detail_level": "medium",
+    "overlay_density": "standard",
+    "spoiler_free": true
+  },
+  {
+    "fan_id": "F0015",
+    "mode": "tactical",
+    "language": "fr",
+    "favorite_club": "BRI",
+    "favorite_player_id": null,
+    "metric_focus": "xg",
+    "detail_level": "high",
+    "overlay_density": "standard",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0016",
+    "mode": "casual",
+    "language": "pt",
+    "favorite_club": "KIN",
+    "favorite_player_id": null,
+    "metric_focus": "pass_difficulty",
+    "detail_level": "low",
+    "overlay_density": "minimal",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0017",
+    "mode": "player_focus",
+    "language": "en",
+    "favorite_club": "BRI",
+    "favorite_player_id": "BRI17",
+    "metric_focus": "xg",
+    "detail_level": "medium",
+    "overlay_density": "rich",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0018",
+    "mode": "tactical",
+    "language": "de",
+    "favorite_club": "KIN",
+    "favorite_player_id": null,
+    "metric_focus": "pass_difficulty",
+    "detail_level": "high",
+    "overlay_density": "rich",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0019",
+    "mode": "storyteller",
+    "language": "ja",
+    "favorite_club": "BRI",
+    "favorite_player_id": "BRI32",
+    "metric_focus": "xg",
+    "detail_level": "medium",
+    "overlay_density": "minimal",
+    "spoiler_free": false
+  },
+  {
+    "fan_id": "F0020",
+    "mode": "storyteller",
+    "language": "es",
+    "favorite_club": "KIN",
+    "favorite_player_id": null,
+    "metric_focus": "distance_covered",
+    "detail_level": "medium",
+    "overlay_density": "rich",
+    "spoiler_free": false
+  }
+]

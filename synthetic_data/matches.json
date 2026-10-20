@@ -1,0 +1,703 @@
+[
+  {
+    "match_id": "M001",
+    "kickoff_utc": "2026-11-07T15:00:00+00:00",
+    "competition": "Synthetic Premier Series",
+    "venue": "Harbor Stadium",
+    "attendance": 25447,
+    "weather": "light_rain",
+    "referee": "Rui Dalgaard",
+    "final_score": "2-0",
+    "possession_home_pct": 49.0,
+    "home": {
+      "code": "KIN",
+      "name": "Kingsbridge Wanderers",
+      "side": "home",
+      "formation": "3-5-2",
+      "strength": 0.933,
+      "style": {
+        "tempo": 0.5,
+        "directness": 0.63,
+        "press": 0.68
+      },
+      "score": 2,
+      "team_stats": {
+        "poss_s": 2884.94,
+        "passes": 655.0,
+        "pass_ok": 533.0,
+        "f3_entries": 78.0,
+        "pressures": 192.0,
+        "shots": 9.0,
+        "xg": 0.44,
+        "shots_on_target": 5.0
+      },
+      "roster": [
+        {
+          "player_id": "KIN06",
+          "name": "Jonas Santos",
+          "jersey": 6,
+          "position": "GK",
+          "skills": {
+            "passing": 49,
+            "shooting": 35,
+            "tackling": 35,
+            "pace": 51,
+            "stamina": 65
+          },
+          "stats": {
+            "distance_m": 1175.7,
+            "saves": 2.0,
+            "touches": 7.0,
+            "passes": 7.0,
+            "pass_ok": 6.0
+          }
+        },
+        {
+          "player_id": "KIN01",
+          "name": "Yuki Dumont",
+          "jersey": 1,
+          "position": "CB",
+          "skills": {
+            "passing": 44,
+            "shooting": 40,
+            "tackling": 76,
+            "pace": 69,
+            "stamina": 69
+          },
+          "stats": {
+            "distance_m": 1894.7,
+            "touches": 15.0,
+            "passes": 9.0,
+            "pass_ok": 8.0,
+            "top_speed_kmh": 27.4,
+            "sprints": 1.0
+          }
+        },
+        {
+          "player_id": "KIN26",
+          "name": "Luca Dalgaard",
+          "jersey": 26,
+          "position": "CB",
+          "skills": {
+            "passing": 52,
+            "shooting": 46,
+            "tackling": 62,
+            "pace": 67,
+            "stamina": 82
+          },
+          "stats": {
+            "distance_m": 8590.8,
+            "touches": 27.0,
+            "passes": 23.0,
+            "pass_ok": 16.0,
+            "interceptions": 3.0,
+            "top_speed_kmh": 30.7,
+            "sprints": 4.0,
+            "fouls": 1.0,
+            "tackles_lost": 1.0
+          }
+        },
+        {
+          "player_id": "KIN21",
+          "name": "Samir Lindqvist",
+          "jersey": 21,
+          "position": "CB",
+          "skills": {
+            "passing": 60,
+            "shooting": 40,
+            "tackling": 60,
+            "pace": 70,
+            "stamina": 75
+          },
+          "stats": {
+            "distance_m": 8521.9,
+            "touches": 47.0,
+            "passes": 35.0,
+            "pass_ok": 29.0,
+            "top_speed_kmh": 30.9,
+            "sprints": 9.0,
+            "tackles_won": 1.0,
+            "interceptions": 7.0
+          }
+        },
+        {
+          "player_id": "KIN16",
+          "name": "Mikael Haruna",
+          "jersey": 16,
+          "position": "LWB",
+          "skills": {
+            "passing": 68,
+            "shooting": 43,
+            "tackling": 70,
+            "pace": 59,
+            "stamina": 70
+          },
+          "stats": {
+            "distance_m": 8017.1,
+            "interceptions": 7.0,
+            "touches": 101.0,
+            "passes": 82.0,
+            "pass_ok": 61.0,
+            "top_speed_kmh": 33.1,
+            "tackles_lost": 5.0,
+            "tackles_won": 2.0,
+            "sprints": 6.0
+          }
+        },
+        {
+          "player_id": "KIN05",
+          "name": "Idris Xavier",
+          "jersey": 5,
+          "position": "CM",
+          "skills": {
+            "passing": 77,
+            "shooting": 55,
+            "tackling": 69,
+            "pace": 64,
+            "stamina": 70
+          },
+          "stats": {
+            "touches": 104.0,
+            "top_speed_kmh": 32.6,
+            "distance_m": 9919.8,
+            "passes": 84.0,
+            "pass_ok": 72.0,
+            "sprints": 12.0,
+            "tackles_won": 5.0,
+            "interceptions": 8.0,
+            "tackles_lost": 5.0,
+            "fouls": 2.0
+          }
+        },
+        {
+          "player_id": "KIN24",
+          "name": "Emeka Bennett",
+          "jersey": 24,
+          "position": "DM",
+          "skills": {
+            "passing": 75,
+            "shooting": 59,
+            "tackling": 50,
+            "pace": 55,
+            "stamina": 77
+          },
+          "stats": {
+            "distance_m": 9121.7,
+            "touches": 100.0,
+            "passes": 69.0,
+            "pass_ok": 63.0,
+            "top_speed_kmh": 31.1,
+            "tackles_won": 4.0,
+            "fouls": 1.0,
+            "tackles_lost": 6.0,
+            "sprints": 2.0,
+            "interceptions": 5.0
+          }
+        },
+        {
+          "player_id": "KIN15",
+          "name": "Yuki Brandt",
+          "jersey": 15,
+          "position": "CM",
+          "skills": {
+            "passing": 71,
+            "shooting": 57,
+            "tackling": 52,
+            "pace": 66,
+            "stamina": 69
+          },
+          "stats": {
+            "distance_m": 8939.6,
+            "touches": 109.0,
+            "passes": 88.0,
+            "pass_ok": 71.0,
+            "tackles_lost": 9.0,
+            "top_speed_kmh": 31.0,
+            "interceptions": 4.0,
+            "sprints": 9.0,
+            "tackles_won": 6.0,
+            "fouls": 3.0
+          }
+        },
+        {
+          "player_id": "KIN20",
+          "name": "Mikael Lindqvist",
+          "jersey": 20,
+          "position": "RWB",
+          "skills": {
+            "passing": 72,
+            "shooting": 53,
+            "tackling": 72,
+            "pace": 75,
+            "stamina": 64
+          },
+          "stats": {
+            "distance_m": 6731.5,
+            "touches": 118.0,
+            "passes": 86.0,
+            "pass_ok": 74.0,
+            "top_speed_kmh": 34.2,
+            "sprints": 6.0,
+            "tackles_won": 2.0,
+            "fouls": 1.0,
+            "interceptions": 9.0,
+            "tackles_lost": 2.0
+          }
+        },
+        {
+          "player_id": "KIN14",
+          "name": "Tariq Kovac",
+          "jersey": 14,
+          "position": "LW",
+          "skills": {
+            "passing": 71,
+            "shooting": 81,
+            "tackling": 38,
+            "pace": 75,
+            "stamina": 70
+          },
+          "stats": {
+            "distance_m": 1490.7,
+            "touches": 23.0,
+            "passes": 19.0,
+            "pass_ok": 16.0,
+            "interceptions": 2.0,
+            "tackles_lost": 2.0,
+            "fouls": 1.0,
+            "top_speed_kmh": 24.1,
+            "shots": 1.0,
+            "xg": 0.0
+          }
+        },
+        {
+          "player_id": "KIN23",
+          "name": "Stefan Ito",
+          "jersey": 23,
+          "position": "ST",
+          "skills": {
+            "passing": 53,
+            "shooting": 78,
+            "tackling": 45,
+            "pace": 71,
+            "stamina": 71
+          },
+          "stats": {
+            "distance_m": 1213.8,
+            "touches": 25.0,
+            "top_speed_kmh": 27.0,
+            "passes": 14.0,
+            "pass_ok": 8.0,
+            "interceptions": 4.0,
+            "sprints": 1.0,
+            "tackles_lost": 1.0,
+            "shots": 1.0,
+            "xg": 0.0
+          }
+        },
+        {
+          "player_id": "KIN07",
+          "name": "Emeka Gallo",
+          "jersey": 7,
+          "position": "GK",
+          "skills": {
+            "passing": 53,
+            "shooting": 35,
+            "tackling": 35,
+            "pace": 42,
+            "stamina": 52
+          },
+          "stats": {}
+        },
+        {
+          "player_id": "KIN09",
+          "name": "Samir Petrov",
+          "jersey": 9,
+          "position": "RB",
+          "skills": {
+            "passing": 61,
+            "shooting": 35,
+            "tackling": 60,
+            "pace": 69,
+            "stamina": 68
+          },
+          "stats": {}
+        },
+        {
+          "player_id": "KIN33",
+          "name": "Joao Weston",
+          "jersey": 33,
+          "position": "CM",
+          "skills": {
+            "passing": 61,
+            "shooting": 59,
+            "tackling": 60,
+            "pace": 64,
+            "stamina": 74
+          },
+          "stats": {}
+        },
+        {
+          "player_id": "KIN08",
+          "name": "Tariq Cole",
+          "jersey": 8,
+          "position": "CM",
+          "skills": {
+            "passing": 78,
+            "shooting": 62,
+            "tackling": 67,
+            "pace": 70,
+            "stamina": 74
+          },
+          "stats": {}
+        }
+      ]
+    },
+    "away": {
+      "code": "BRI",
+      "name": "Brightwater Park",
+      "side": "away",
+      "formation": "4-3-3",
+      "strength": 0.936,
+      "style": {
+        "tempo": 0.64,
+        "directness": 0.47,
+        "press": 0.47
+      },
+      "score": 0,
+      "team_stats": {
+        "pressures": 162.0,
+        "poss_s": 2997.2,
+        "passes": 627.0,
+        "pass_ok": 509.0,
+        "shots": 10.0,
+        "xg": 0.48,
+        "f3_entries": 54.0,
+        "shots_on_target": 2.0,
+        "corners": 4.0
+      },
+      "roster": [
+        {
+          "player_id": "BRI10",
+          "name": "Yuki Petrov",
+          "jersey": 10,
+          "position": "GK",
+          "skills": {
+            "passing": 46,
+            "shooting": 35,
+            "tackling": 35,
+            "pace": 35,
+            "stamina": 57
+          },
+          "stats": {
+            "distance_m": 947.0,
+            "saves": 3.0,
+            "touches": 17.0,
+            "passes": 13.0,
+            "pass_ok": 11.0,
+            "top_speed_kmh": 20.3
+          }
+        },
+        {
+          "player_id": "BRI06",
+          "name": "Rafael Fraser",
+          "jersey": 6,
+          "position": "LB",
+          "skills": {
+            "passing": 63,
+            "shooting": 46,
+            "tackling": 80,
+            "pace": 69,
+            "stamina": 71
+          },
+          "stats": {
+            "distance_m": 8211.3,
+            "touches": 69.0,
+            "top_speed_kmh": 30.4,
+            "passes": 45.0,
+            "pass_ok": 36.0,
+            "shots": 1.0,
+            "xg": 0.1,
+            "interceptions": 5.0,
+            "sprints": 6.0,
+            "tackles_won": 1.0
+          }
+        },
+        {
+          "player_id": "BRI11",
+          "name": "Hugo Santos",
+          "jersey": 11,
+          "position": "CB",
+          "skills": {
+            "passing": 57,
+            "shooting": 41,
+            "tackling": 78,
+            "pace": 62,
+            "stamina": 74
+          },
+          "stats": {
+            "distance_m": 8658.8,
+            "touches": 47.0,
+            "passes": 37.0,
+            "pass_ok": 29.0,
+            "interceptions": 8.0,
+            "top_speed_kmh": 30.1,
+            "tackles_lost": 1.0,
+            "sprints": 3.0,
+            "tackles_won": 1.0
+          }
+        },
+        {
+          "player_id": "BRI34",
+          "name": "Hugo Quinn",
+          "jersey": 34,
+          "position": "CB",
+          "skills": {
+            "passing": 56,
+            "shooting": 38,
+            "tackling": 68,
+            "pace": 60,
+            "stamina": 71
+          },
+          "stats": {
+            "distance_m": 8101.3,
+            "touches": 58.0,
+            "passes": 41.0,
+            "pass_ok": 25.0,
+            "sprints": 3.0,
+            "top_speed_kmh": 28.6,
+            "interceptions": 4.0,
+            "fouls": 1.0,
+            "tackles_lost": 1.0
+          }
+        },
+        {
+          "player_id": "BRI17",
+          "name": "Omar Santos",
+          "jersey": 17,
+          "position": "CB",
+          "skills": {
+            "passing": 64,
+            "shooting": 40,
+            "tackling": 73,
+            "pace": 70,
+            "stamina": 70
+          },
+          "stats": {
+            "distance_m": 1421.5,
+            "touches": 12.0,
+            "top_speed_kmh": 28.3,
+            "passes": 10.0,
+            "pass_ok": 10.0
+          }
+        },
+        {
+          "player_id": "BRI24",
+          "name": "Stefan Ibarra",
+          "jersey": 24,
+          "position": "CM",
+          "skills": {
+            "passing": 78,
+            "shooting": 60,
+            "tackling": 70,
+            "pace": 74,
+            "stamina": 71
+          },
+          "stats": {
+            "distance_m": 2107.0,
+            "touches": 32.0,
+            "top_speed_kmh": 27.2,
+            "passes": 22.0,
+            "pass_ok": 17.0,
+            "tackles_won": 1.0,
+            "interceptions": 5.0,
+            "sprints": 1.0
+          }
+        },
+        {
+          "player_id": "BRI18",
+          "name": "Bruno Weston",
+          "jersey": 18,
+          "position": "DM",
+          "skills": {
+            "passing": 81,
+            "shooting": 50,
+            "tackling": 64,
+            "pace": 69,
+            "stamina": 77
+          },
+          "stats": {
+            "distance_m": 9946.9,
+            "tackles_lost": 4.0,
+            "interceptions": 11.0,
+            "touches": 136.0,
+            "passes": 94.0,
+            "pass_ok": 76.0,
+            "top_speed_kmh": 31.8,
+            "sprints": 6.0,
+            "fouls": 2.0,
+            "tackles_won": 4.0
+          }
+        },
+        {
+          "player_id": "BRI36",
+          "name": "Luca Nakamura",
+          "jersey": 36,
+          "position": "CM",
+          "skills": {
+            "passing": 71,
+            "shooting": 54,
+            "tackling": 56,
+            "pace": 60,
+            "stamina": 80
+          },
+          "stats": {
+            "distance_m": 11374.9,
+            "tackles_lost": 6.0,
+            "touches": 109.0,
+            "passes": 76.0,
+            "pass_ok": 66.0,
+            "top_speed_kmh": 31.1,
+            "sprints": 4.0,
+            "tackles_won": 3.0,
+            "interceptions": 7.0,
+            "shots": 1.0,
+            "xg": 0.1,
+            "fouls": 1.0
+          }
+        },
+        {
+          "player_id": "BRI25",
+          "name": "Mateo Lindqvist",
+          "jersey": 25,
+          "position": "LW",
+          "skills": {
+            "passing": 60,
+            "shooting": 81,
+            "tackling": 35,
+            "pace": 77,
+            "stamina": 71
+          },
+          "stats": {
+            "distance_m": 8849.7,
+            "sprints": 9.0,
+            "top_speed_kmh": 32.3,
+            "touches": 85.0,
+            "passes": 63.0,
+            "pass_ok": 53.0,
+            "interceptions": 8.0,
+            "shots": 2.0,
+            "xg": 0.1,
+            "tackles_lost": 1.0
+          }
+        },
+        {
+          "player_id": "BRI32",
+          "name": "Leif Jovic",
+          "jersey": 32,
+          "position": "LW",
+          "skills": {
+            "passing": 57,
+            "shooting": 78,
+            "tackling": 44,
+            "pace": 71,
+            "stamina": 73
+          },
+          "stats": {
+            "distance_m": 1374.0,
+            "touches": 15.0,
+            "passes": 12.0,
+            "pass_ok": 9.0,
+            "sprints": 1.0,
+            "top_speed_kmh": 30.8,
+            "interceptions": 3.0,
+            "shots": 1.0,
+            "xg": 0.1
+          }
+        },
+        {
+          "player_id": "BRI26",
+          "name": "Hugo Xavier",
+          "jersey": 26,
+          "position": "RW",
+          "skills": {
+            "passing": 56,
+            "shooting": 74,
+            "tackling": 41,
+            "pace": 72,
+            "stamina": 59
+          },
+          "stats": {
+            "distance_m": 6589.9,
+            "touches": 78.0,
+            "top_speed_kmh": 31.0,
+            "passes": 64.0,
+            "pass_ok": 56.0,
+            "shots": 1.0,
+            "xg": 0.0,
+            "tackles_lost": 1.0,
+            "interceptions": 5.0,
+            "sprints": 5.0,
+            "tackles_won": 3.0
+          }
+        },
+        {
+          "player_id": "BRI38",
+          "name": "Kofi Greco",
+          "jersey": 38,
+          "position": "GK",
+          "skills": {
+            "passing": 50,
+            "shooting": 35,
+            "tackling": 35,
+            "pace": 53,
+            "stamina": 62
+          },
+          "stats": {}
+        },
+        {
+          "player_id": "BRI05",
+          "name": "Hugo Moreau",
+          "jersey": 5,
+          "position": "RB",
+          "skills": {
+            "passing": 66,
+            "shooting": 38,
+            "tackling": 71,
+            "pace": 68,
+            "stamina": 62
+          },
+          "stats": {}
+        },
+        {
+          "player_id": "BRI15",
+          "name": "Arjun Castellano",
+          "jersey": 15,
+          "position": "CM",
+          "skills": {
+            "passing": 75,
+            "shooting": 56,
+            "tackling": 72,
+            "pace": 63,
+            "stamina": 76
+          },
+          "stats": {}
+        },
+        {
+          "player_id": "BRI16",
+          "name": "Joao Gallo",
+          "jersey": 16,
+          "position": "ST",
+          "skills": {
+            "passing": 55,
+            "shooting": 68,
+            "tackling": 47,
+            "pace": 70,
+            "stamina": 62
+          },
+          "stats": {}
+        }
+      ]
+    },
+    "event_count": 2999
+  }
+]
